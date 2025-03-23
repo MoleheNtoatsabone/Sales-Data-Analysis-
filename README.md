@@ -23,6 +23,14 @@ This project showcases data analysis using **Excel, SQL, and Python** for an ent
 - **Python** (`pandas`, `matplotlib`, `seaborn`) for visualization.
 - **Excel** for dataset storage and manipulation.
 
+##   📊 Results/Output
+-  results 1 : The best-selling products
+-  results 2 : Monthly Revenue Trends
+-  results 3 : Top Customer Regions by Sales
+
+  - Python_output : The best-selling products
+
+
 ## 👤 About Me
-I am an **Aspiring Data Analyst** with certifications in **Power BI, SAS, and Data Science & Visualization with Python**. Connect with me on [LinkedIn](https://www.linkedin.com/in/molehe-joseph-ntoatsabone/)!
+I am an **Aspiring Data Analyst** with certifications in **Power BI, SQL, and Data Science & Visualization with Python**. Connect with me on [LinkedIn](https://www.linkedin.com/in/molehe-joseph-ntoatsabone/)!
 
