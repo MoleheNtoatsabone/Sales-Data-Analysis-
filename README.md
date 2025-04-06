@@ -1,36 +1,67 @@
-# Sales Data Analysis Project
-Sales analysis using Excel, SQL, and Python
-This project showcases data analysis using **Excel, SQL, and Python** for an entry-level **Data Analyst, Data Engineer, or Data Scientist** role.
+📊 Sales Data Analysis Project (Updated Dataset)
+Exploring Sales Performance Across South Africa Using Excel, SQL, Python, and Tableau
 
-## 📂 Project Files
-- **sales_data.xlsx** - A synthetic dataset of 1000 sales transactions.
-- **sales_analysis.sql** - SQL script for data analysis.
-- **sales_visualization.py** - Python script for data visualization.
-- **README.md** - Project documentation.
+This project showcases an end-to-end data analysis process using a new and richer dataset. It demonstrates data cleaning, transformation, and insightful visualizations created in Excel, SQL, Python, and Tableau—ideal for roles such as Data Analyst, Business Analyst, or Data Scientist.
 
-## 📊 Analysis Performed
-- **Best-Selling Products** - Identify top products by sales quantity.
-- **Monthly Revenue Trends** - Analyze sales patterns over time.
-- **Regional Sales Insights** - Determine the most profitable customer regions.
+📂 Project Files
+Sales DataSet.xlsx — Cleaned dataset with enriched sales information
 
-## 🚀 Getting Started
-1. Load `sales_data.xlsx` into a SQL database.
-2. Run `sales_analysis.sql` queries for insights.
-3. Use `sales_visualization.py` to generate charts with Python.
+sales_analysis.sql — SQL scripts to extract insights from the sales data
 
-## 🔧 Technologies Used
-- **SQL** (MySQL/PostgreSQL) for data querying.
-- **Python** (`pandas`, `matplotlib`, `seaborn`) for visualization.
-- **Excel** for dataset storage and manipulation.
+sales_visualization.py — Python scripts for additional charting and exploration
 
-##   📊 Results/Output
--  results 1 : The best-selling products
--  results 2 : Monthly Revenue Trends
--  results 3 : Top Customer Regions by Sales
+Tableau Dashboard.png — Final interactive dashboard screenshot
 
-  - Python_output : The best-selling products
+README.md — Project documentation
 
+📊 Key Insights from the Analysis
+📈 Profit Over Time — Track profit performance by day
 
-## 👤 About Me
-I am an **Aspiring Data Analyst** with certifications in **Power BI, SQL, and Data Science & Visualization with Python**. Connect with me on [LinkedIn](https://www.linkedin.com/in/molehe-joseph-ntoatsabone/)!
+👥 Age Group Contribution — Understand which age groups drive sales
+
+🌍 Customer Demographics by Region — Visualize geographic sales distribution across South Africa
+
+🧮 Top Province by Sale — Identify which provinces generate the highest sales
+
+💰 Total Sales & Profit Metrics — Overall performance:
+
+Total Sales: 1,457,453
+
+Total Profit: R327,605.87
+
+Average Quantity per Order: 6
+
+Average Discount: 15.29%
+
+📷 Dashboard Preview
+
+🚀 Getting Started
+Load the Sales DataSet.xlsx into your SQL environment or BI tool
+
+Run sales_analysis.sql for analytical queries
+
+Use sales_visualization.py to explore the data programmatically
+
+Explore insights in the final Tableau Dashboard.png or Tableau workbook
+
+🔧 Technologies Used
+Excel — Data preparation and preliminary exploration
+
+SQL (MySQL/PostgreSQL) — Advanced querying and aggregation
+
+Python (pandas, matplotlib, seaborn) — Exploratory Data Analysis (EDA)
+
+Tableau — Interactive dashboard for visual storytelling
+
+✅ Outcomes
+Provided a clear view of sales performance across age groups and regions
+
+Identified top-performing provinces and products
+
+Delivered business insights on discount strategy and customer demographics
+
+👤 About Me
+I'm an Aspiring Data Analyst passionate about transforming raw data into actionable insights. I hold certifications in Power BI, SQL, and Python for Data Science and Visualization.
+
+🔗 Connect with me on LinkedIn
 
