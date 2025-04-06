@@ -1,4 +1,5 @@
-📊 Sales Data Analysis Project (Updated Dataset)
+📊 Sales Data Analysis Project
+
 Exploring Sales Performance Across South Africa Using Excel, SQL, Python, and Tableau
 
 This project showcases an end-to-end data analysis process using a new and richer dataset. It demonstrates data cleaning, transformation, and insightful visualizations created in Excel, SQL, Python, and Tableau—ideal for roles such as Data Analyst, Business Analyst, or Data Scientist.
